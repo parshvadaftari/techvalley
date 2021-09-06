@@ -342,9 +342,9 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-hero .flexslider .slides li {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom center;
-  min-height: 630px;
-  height: 630px;
+  background-position: center;
+  /* min-height: 630px;
+  height: 630px; */
   position: relative;
 }
 #fh5co-hero .flexslider .slides li:after {
